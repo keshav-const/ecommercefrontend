@@ -1,15 +1,18 @@
 //import logo from './logo.svg';
 import './App.css';
-import Navigation from './customer/components/navigation/Navigation';
+import Footer from './customer/components/Footer/Footer';
+import Navigation from './customer/components/navigation/Navigation.jsx';
+import Product from './customer/components/Product/Product.jsx';
 import HomePage from './customer/pages/HomePage/HomePage';
 
 function App() {
   return (
     <div className="App">
-      <Navigation/>
+        <Navigation/>
      <div>
-      <HomePage/>
+      <Product/>
      </div>
+     <Footer/>
     </div>
   );
 }

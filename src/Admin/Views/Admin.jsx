@@ -7,7 +7,7 @@ import WeeklyOverview from "../tables/WeeklyOverview";
 import TotalEarning from "../tables/TotalEarning";
 import CardStatsVertical from "../../Styles/CardStatsVertical";
 import SalesByCountries from "../tables/SalesByContry";
-import DepositWithdraw from "../tables/DepositeAndWithdraw";
+import DepositWithdraw from "../tables/DepositAndWithdraw";
 import CustomersTable from "../tables/CustomersTable";
 import { ThemeProvider, createTheme } from "@mui/material";
 import { customTheme, darkTheme } from "../them/customeThem";

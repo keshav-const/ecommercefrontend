@@ -1,6 +1,6 @@
 import AliceCarousel from "react-alice-carousel";
 import HomeProductCard from "./HomeProductCard";
-import "./HomeProductSection.css";
+//import "./HomeProductSection.css";
 import { Button } from "@mui/material";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 import { useState } from "react";

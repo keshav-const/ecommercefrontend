@@ -6,13 +6,13 @@ import About from "../Pages/About";
 import PrivacyPolicy from "../Pages/PrivacyPolicy";
 import TearmsCondition from "../Pages/TearmsCondition";
 import Contact from "../Pages/Contact";
-import Product from "../customer/Components/Product/Product/Product";
-import ProductDetails from "../customer/Components/Product/ProductDetails/ProductDetails";
-import Cart from "../customer/Components/Product/Cart/Cart";
+import Product from "../customer/components/Product/Product/Product";
+import ProductDetails from "../customer/components/Product/ProductDetails/ProductDetails";
+import Cart from "../customer/components/Product/Cart/Cart";
 
 import DemoAdmin from "../Admin/Views/DemoAdmin";
 import AdminPannel from "../Admin/AdminPannel";
-import Navigation from "../customer/Components/Navbar/Navigation";
+import Navigation from "../customer/components/Navbar/Navigation";
 
 const Routers = () => {
   return (

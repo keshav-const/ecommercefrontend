@@ -1,7 +1,7 @@
 
 import axios from 'axios';
 //const DEPLOYED='https://e-commerce-server-production-0873.up.railway.app'
-const LOCALHOST='http://localhost:3000'
+const LOCALHOST='http://localhost:5050'
 
 export const API_BASE_URL = LOCALHOST
 

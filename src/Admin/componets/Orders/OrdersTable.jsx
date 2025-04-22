@@ -33,7 +33,7 @@ import {
     getOrders,
     shipOrder,
   } from "../../../Redux/Admin/Orders/Action";
-  import { configure } from "@testing-library/react";
+  // import { configure } from "@testing-library/react";
   
   const OrdersTable = () => {
     const navigate = useNavigate();
